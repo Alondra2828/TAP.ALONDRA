@@ -1,3 +1,7 @@
 Linux,S,S,S,16
 Mac,N,S,N,12
 Linux,S,S,S,1
+Windows,S,N,N,10
+Mac,N,S,N,14
+Mac,N,S,N,14
+Mac,N,S,N,4

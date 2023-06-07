@@ -291,7 +291,7 @@ public class Practica66 extends javax.swing.JFrame {
         
         try {
             if (conn == null){
-                conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/encuesta?"
+                conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/encuesta"
                                       + "useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&user=encuesta&password=encuesta");
                 
                 stmt = conn.createStatement();
