@@ -1,1 +1,3 @@
 Linux,S,S,S,16
+Mac,N,S,N,12
+Linux,S,S,S,1
