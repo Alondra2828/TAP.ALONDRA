@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author gmendez
+ * @author gonza
  */
 public class Cliente {
     
